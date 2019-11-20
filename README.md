@@ -1,2 +1,2 @@
-# MyFirstRepos
+# HomeworkPlanner
 yea my first ig
